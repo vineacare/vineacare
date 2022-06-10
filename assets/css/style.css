@@ -30,6 +30,14 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+.about-txt{
+  line-height: 1.7rem;
+  letter-spacing: 0.1rem;
+}
+.cta-txt{
+  line-height: 1.3rem;
+  letter-spacing: 0.2rem;
+}
 .back-to-top {
   position: fixed;
   visibility: hidden;
