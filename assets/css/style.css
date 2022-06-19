@@ -27,12 +27,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+#left-text{
+  text-align: left;
+}
+#right-text{
+  text-align: right;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
 .about-txt{
   line-height: 1.7rem;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.08rem;
 }
 .cta-txt{
   line-height: 1.3rem;
